@@ -1,0 +1,12 @@
+Package: com.chpwn.iconsupport
+Version: 1.9.4-4.1
+Section: Tweaks
+Maintainer: Chpwn <nobody@me.com>
+Architecture: iphoneos-arm
+Filename: .//pkgfiles/com.chpwn.iconsupport_1.9.4-4.1_iphoneos-arm.deb
+Size: 27834
+MD5sum: fd0a56950ecbb0ad0d5d4d64e8a1e31d
+Description: Iconsupport
+Name: iconsupport
+Author: Chpwn <nobody@me.com>
+
