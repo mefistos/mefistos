@@ -1,0 +1,9 @@
+Origin: Mefistos's Repo
+Label: Mefistos's Repo
+Suite: stable
+Version: 1.0
+Codename: Mefistos
+Architectures: iphones-arm
+Components: main
+Description: Mefistos's Repo
+MD5Sum:
